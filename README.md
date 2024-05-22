@@ -6,6 +6,14 @@ Our innovative SaaS platform, developed with Laravel 11, offers personalized exp
 
 On your customizable page, you can share links to your personal website, LinkedIn profile, and other social media profiles. Our platform prioritizes both security and privacy, making it easier for you to manage your online presence.
 
+## Tech-Stack
+- PHP 8.3
+- Laravel 11
+- SQLite
+
+## Packages
+- [laravel-magiclink](https://github.com/cesargb/laravel-magiclink)
+
 ## Tasks
 
 - [ ] Create update functions for dashboard.
@@ -15,3 +23,4 @@ On your customizable page, you can share links to your personal website, LinkedI
 ### Please note
 
 This project is a clone of hi.new, developed for personal growth purposes. The developer cannot be held responsible for any issues encountered.
+
